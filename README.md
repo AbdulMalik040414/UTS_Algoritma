@@ -119,3 +119,8 @@ int main()
 
 	return 0;
 }
+
+berikut hasil screenshot dari soal2.cpp :
+![soal2](https://user-images.githubusercontent.com/44117281/47954467-e8f4c080-dfbc-11e8-9735-4beac6d1c76e.png)
+
+
