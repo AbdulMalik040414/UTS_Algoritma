@@ -78,6 +78,9 @@ int main()
 	return 0;
 }
 
+berikut hasil screenshot dari soal1.cpp :
+![soal1](https://user-images.githubusercontent.com/44117281/47954436-b0ed7d80-dfbc-11e8-8413-b26b5215700b.png)
+
 ## penjelasan dari jawaban soal2.cpp
 1.	Membuat inisialisasi (int n,x,t,batas;)
 2.	Input nilai N
